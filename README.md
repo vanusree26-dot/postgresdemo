@@ -10,3 +10,7 @@ conda activate venv/
 conda deactivate
 
 pip install -r requirement.txt 
+
+<!-- git add .
+git commit -m "basic setup complete"  
+git push origin main -->
