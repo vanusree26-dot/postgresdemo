@@ -26,8 +26,8 @@ def get_db_connection():
     #     if connection is not None:
     #         connection.close()
 
-    # conn=get_db_connection()
-if __name__ == "__main__":
-    connection = get_db_connection()
-    if connection is not None:
-        connection.close()
+    conn=get_db_connection()
+# if __name__ == "__main__":
+#     connection = get_db_connection()
+#     if connection is not None:
+#         connection.close()
