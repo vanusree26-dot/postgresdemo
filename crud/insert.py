@@ -18,4 +18,4 @@ def create_users(user_id, username):
         finally:
             conn.close()
 
-create_users(1,"Anusree")
+# create_users(1,"Anusree")
